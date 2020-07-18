@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Fortunes</string>
+    <string name="app_massage">名前を入力して、占うボタンを押してね!!</string>
+    <string name="your_name">Please enter your name</string>
+    <string name="your_fortune">占う</string>
+    <string name="today_fortune">今日の運勢は</string>
+</resources>
